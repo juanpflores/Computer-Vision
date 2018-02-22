@@ -1,4 +1,4 @@
-![banner](./imagenes/documentacion/banner.jpg)
+![banner](./imagenes/documentation/banner.jpg)
 
 En este repositorio puedes encontrar todo lo necesario para hacer reconocimiento de patrones utilizando Python. Entre los documentos que tiene este tutorial se encuentran archivos de MarkDown que tienen alguna información útil y Jupyter Notebooks con el código que fue utilizado.
 
@@ -22,7 +22,7 @@ Para usar este repositorio es recomendable que lo clones y ejecutes cada uno de 
 TODO: Write history
 
 ## Créditos
-	- Juan Pablo Flores [:octocat:](github.com/juanpflores)
+- Juan Pablo Flores [:octocat:](github.com/juanpflores)
 
 ## Licencia
 Este proyecto cuenta con una Licencia GNU GENERAL PUBLIC LICENSE. Puedes revisar los detalles de la licencia en este [documento](LICENSE)
